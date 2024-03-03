@@ -9,7 +9,7 @@
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br />  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/posts/sri-shivanuja-7ab250230_atminterface-activity-7157431438580051969-CSxu?utm_source=share&utm_medium=member_android)
-[<img src="https://www.flaticon.com/free-icons/gmail" title="gmail icons">](sivanuragavan@gmail.com)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](sivanuragavan@gmail.com)
 
 
 
